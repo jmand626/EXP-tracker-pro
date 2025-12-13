@@ -10,3 +10,5 @@ Expected Goals:
 4. Track everything with TensorBoard — log metrics, visualize experiments, and identify the best model.
 
 5. Deploy the best model — load it back in, run predictions, and test it on custom images.
+
+Expected Completion Time: 1 Week
