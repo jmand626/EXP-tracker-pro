@@ -11,4 +11,4 @@ Expected Goals:
 
 5. Deploy the best model — load it back in, run predictions, and test it on custom images.
 
-Expected Completion Time: 1 Week
+Expected Completion Time: 1-2 Weeks
