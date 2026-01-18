@@ -1,4 +1,4 @@
-A ML system that can track and compare different models, and display them together. Download the Colab notebook and run it!
+A ML system that can track and compare different models, and display them together. Download the Colab notebook and run it! Please note that downloading the dataset may take a little bit.
 
 Expected Goals:
 1. Set up a full experiment-tracking pipeline — including seeding, data loading, transforms, and model building.
